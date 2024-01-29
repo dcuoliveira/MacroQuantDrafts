@@ -1,0 +1,21 @@
+,ticker,description,name,category,source,url
+17,RSXFS,Advance Retail Sales: Retail Trade,Advanced Retail Sales,consumption,FRED,https://fred.stlouisfed.org/series/RSXFS
+5,DRCCLACBS,"Delinquency Rate on Credit Card Loans, All Commercial Banks",Delinquency Rate on Credit Card,consumption,FRED,https://fred.stlouisfed.org/series/DRCCLACBS
+2,CCSA,Continuing Claims (Insured Unemployment),Continuing Claims,employment,FRED,https://fred.stlouisfed.org/series/CCSA
+11,ICSA,Initial Claims,Initial Claims,employment,FRED,https://fred.stlouisfed.org/series/ICSA
+13,M318501Q027NBEA,Federal government budget surplus or deficit (-),US Government Budget,fiscal,FRED,https://fred.stlouisfed.org/series/M318501Q027NBEA
+18,W068RCQ027SBEA,Government total expenditures,Government total expenditures,fiscal,FRED,https://fred.stlouisfed.org/series/W068RCQ027SBEA
+6,DSPIC96,Real Disposable Personal Income,Real Disposable Personal Income,income,FRED,https://fred.stlouisfed.org/series/DSPIC96
+7,RPI,Real Personal Income,Real Personal Income,income,FRED,https://fred.stlouisfed.org/series/RPI
+10,GPDIC1,Real gross private domestic investment,Real Private Investments,investments,FRED,https://fred.stlouisfed.org/series/GPDIC1
+8,GCEC1,Real Government Consumption Expenditures and Gross Investment ,Real Government Investments,investments,FRED,https://fred.stlouisfed.org/series/GCEC1
+16,PRFI,Private Residential Fixed Investment, Private Residential Fixed Investment,investments,FRED,https://fred.stlouisfed.org/series/PRFI
+14,MYAGM2USM052S,M2 for United States,US M2,liquidity,FRED,https://fred.stlouisfed.org/series/MYAGM2USM052SNBR
+12,INDPRO,Industrial Production Index,IP,output,FRED,https://fred.stlouisfed.org/series/INDPRO
+1,AMTMNO,Total Manufacturing Inventories,Total Manufacturing Inventories,output,FRED,https://fred.stlouisfed.org/series/AMTMNO
+9,GDPC1,Real Gross Domestic Product,Real GDP,output,FRED,https://fred.stlouisfed.org/series/GDPC1
+4,CPILFESL,Consumer Price Index for All Urban Consumers: All Items Less Food and Energy,CPI Core,prices,FRED,https://fred.stlouisfed.org/series/CPILFESL
+3,CPIAUCSL,Consumer Price Index for All Urban Consumers: All Items,CPI Headline,prices,FRED,https://fred.stlouisfed.org/series/CPIAUCSL
+15,PPIFES,Producer Price Index by Commodity: Final Demand: Final Demand Less Foods and Energy,PPI Core,prices,FRED,https://fred.stlouisfed.org/series/PPIFES
+0,A072RC1Q156SBEA,Personal saving as a percentage of disposable personal income,Personal Savings Rate,savings,FRED,https://fred.stlouisfed.org/series/A072RC1Q156SBEA
+19,W998RC1Q027SBEA,Gross private saving: Households and institutions ,Gross private saving,savings,FRED,https://fred.stlouisfed.org/series/W998RC1Q027SBEA
